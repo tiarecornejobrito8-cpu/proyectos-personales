@@ -1,14 +1,25 @@
-# Portafolio de Proyectos - Tiare
+# Portafolio Personal - Tiare
 
-Bienvenido a mi portafolio de proyectos personales y académicos.  
-Actualmente está en construcción, pero servirá para mostrar mis avances en desarrollo web, backend y redes.
+Este repositorio reúne mis proyectos personales de desarrollo y tecnología.  
+Actualmente está en construcción, pero servirá como portafolio para mostrar mis avances y trabajos futuros.
 
-## Objetivos
-- Documentar proyectos personales y académicos.
-- Mostrar habilidades en **Python, Django, MySQL, Bootstrap, GNS3 y redes**.
-- Servir como portafolio para oportunidades profesionales.
+## Sobre mí
+Soy estudiante y desarrolladora en formación, con interés en **backend, redes y sistemas integrados**.  
+Me apasiona crear soluciones prácticas y aprender nuevas tecnologías.
+
+## Tecnologías que uso
+- **Python, Django, DRF**
+- **MySQL/XAMPP**
+- **Bootstrap**
+- **GNS3 y redes**
+- **IoT y hardware básico**
+
+## Objetivos del portafolio
+- Documentar proyectos personales y experimentales.
+- Mostrar habilidades técnicas y de desarrollo.
+- Servir como carta de presentación para oportunidades profesionales.
 
 ## Próximos pasos
-- Subir mi primer proyecto académico.
-- Agregar proyectos personales de práctica y experimentación.
-- Incluir documentación técnica y capturas de pantalla.
+- Subir mi primer proyecto personal.
+- Agregar documentación y capturas de pantalla.
+- Incluir proyectos freelance y de práctica.
