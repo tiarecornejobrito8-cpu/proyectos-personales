@@ -1,39 +1,76 @@
-Portafolio Personal - Tiare Cornejo Brito
+-  Portafolio Personal - Tiare Cornejo Brito
 
-Este repositorio reúne mis proyectos personales de desarrollo y tecnología.  
-Actualmente está en construcción, pero servirá como portafolio para mostrar mis avances y trabajos futuros.
+Bienvenido a mi repositorio de proyectos y prácticas de desarrollo.
 
- Sobre mí
-Soy estudiante y desarrolladora en formación, con interés en **backend, redes y sistemas integrados**.  
-Me apasiona crear soluciones prácticas y aprender nuevas tecnologías.
+Actualmente estudio Ingeniería en Informática y este espacio reúne proyectos académicos, personales y experimentales relacionados con desarrollo de software, bases de datos, redes, computación en la nube e Internet de las Cosas (IoT).
 
-Tecnologías que uso
-- Python, Django, DRF
-- MySQL/XAMPP
+- Certificaciones
+
+ - AWS Academy Cloud Foundations
+
+[Ver credencial oficial](https://www.credly.com/badges/d9bf6a1f-bdab-407a-bfb0-8fd0d59b95eb/public_url)
+
+ - Esta certificación acredita conocimientos fundamentales sobre:
+
+- Computación en la nube
+- Servicios principales de AWS
+- Seguridad y cumplimiento
+- Arquitecturas básicas en la nube
+- Facturación y modelos de costos
+
+- Tecnologías y Herramientas
+
+- Desarrollo Web
+- HTML5
+- CSS3
+- JavaScript
 - Bootstrap
-- GNS3 y redes
+- Django
+- Django REST Framework (DRF)
+- React
+
+- Bases de Datos
+
+- MySQL
+- SQL Server
+- Bases de Datos No Estructuradas
+
+- Infraestructura y Redes
+
+- GNS3
 - VirtualBox
-- SQL Server Management Studio
+- Linux
+- Redes TCP/IP
+- Seguridad Informática
+
+- Cloud Computing
+
 - AWS Academy
 - Microsoft Azure
-- IoT y hardware básico
-- Bases de datos estructuradas y no estructuradas
-- Frontend (HTML, CSS, JS, Bootstrap)
-- Backend
-- Manejo de IoT
-- Android Studio
+
+- IoT y Desarrollo Embebido
+
 - Arduino IDE
+- ESP32
+- Sensores y automatización
+- Sistemas IoT
 
-Objetivos del portafolio
-- Documentar proyectos personales y experimentales.
-- Mostrar habilidades técnicas y de desarrollo.
-- Servir como carta de presentación para oportunidades profesionales.
+- Objetivos del Portafolio
 
-Próximos pasos
-- Subir mi primer proyecto personal.
-- Agregar documentación y capturas de pantalla.
-- Incluir proyectos freelance y de práctica.
+- Documentar proyectos académicos y personales.
+- Mostrar habilidades técnicas adquiridas durante mi formación.
+- Compartir experiencias y aprendizajes.
+- Construir una presencia profesional en GitHub.
 
-Contacto
+- Próximos Proyectos
+
+- Sistema de gestión de estudios.
+- Aplicaciones web con Django.
+- Proyectos IoT con ESP32.
+- Automatización y domótica.
+- Laboratorios de redes y seguridad informática.
+- Integración de servicios en AWS y Azure.
+
+- Gracias por visitar mi portafolio.
 - Correo: cornejobritotiare@gmail.com
 
